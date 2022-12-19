@@ -23,4 +23,4 @@ Sempre fui apaixonado por tecnologia e lógica, procurava entender como as coisa
 A programação e seus conceitos me encantam e incentivam. As circunstâncias da vida prolongaram este progresso, até me encontrar como estou hoje, achei o local correto e no momento certo da minha vida.
 Estudando na Kenzie academy e em realocação profissional para a área de desenvolvimento.
 
-- [pode entrar em contato comigo pelo email aqui](andersonkellervendas@hotmail.com)
+- pode entrar em contato comigo pelo email aqui: andersonkellervendas@hotmail.com
