@@ -27,6 +27,6 @@
 
 Sempre fui apaixonado por tecnologia e lógica, procurava entender como as coisas funcionavam e o porquê disso, em contatos com jogos ou tecnologias e sistemas distintos imaginava como poderia tudo isso ser criado e como de fato isso ocorre.
 A programação e seus conceitos me encantam e incentivam. As circunstâncias da vida prolongaram este progresso, até me encontrar como estou hoje, achei o local correto e no momento certo da minha vida.
-Estudando na Kenzie academy e em realocação profissional para a área de desenvolvimento.
+Estudando Web Full Stack e desenvolvedor front end jr.
 
 - pode entrar em contato comigo pelo email aqui: andersonkellervendas@hotmail.com
